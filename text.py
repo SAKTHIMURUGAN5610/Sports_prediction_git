@@ -2,6 +2,17 @@ import streamlit as st
 import pandas as pd
 import numpy as np
 
+
+st.markdown(
+    """
+    <style>
+    .stApp [data-testid="stDecoration"] {
+        display: none;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True
+)
 st.header("MLB Game prediction")
 # team=st.text_input("enter your prompt")
 # st.write(
