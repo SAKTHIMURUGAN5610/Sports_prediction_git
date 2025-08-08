@@ -9,8 +9,8 @@ st.header("MLB Game prediction")
 st.subheader("Aug 08-Best Bet Recommendation")
 body = """
 
-Miami Marlins (+1.5 at -185)   - perplexity
-Houston Astros (-1.5 at +143)  - Grok
+team A   - perplexity
+team B - Grok
 
 """
 st.code(body)
