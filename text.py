@@ -6,7 +6,7 @@ st.header("MLB Game prediction")
 # team=st.text_input("enter your prompt")
 # st.write(
 # f"your winning : {team}")
-st.subheader("Aug 12-Best Bet Recommendation")
+st.subheader("Aug 08-Best Bet Recommendation")
 body = """
 
 Miami Marlins (+1.5 at -185)   - perplexity
